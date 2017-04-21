@@ -28,4 +28,6 @@ This will run a jupyter notebook on a gpu with tensorflow and some other basic l
 
 Open the jupyter notebook using the link and experiment with it.
 
+
+
 *Khatam*
