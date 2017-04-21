@@ -28,6 +28,10 @@ This will run a jupyter notebook on a gpu with tensorflow and some other basic l
 
 Open the jupyter notebook using the link and experiment with it.
 
+After you are done modifing and saving, you have to manually stop the job by pressing the stop button in the [dashboard](https://www.floydhub.com/experiments)
+
+After saving, the jupyter notebook will be available for download in the [data tab](https://www.floydhub.com/data)
+
 ---
 
 *Khatam*
