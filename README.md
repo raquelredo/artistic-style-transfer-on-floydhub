@@ -34,7 +34,7 @@ After you are done modifing and saving, you have to manually stop the job by pre
 
 After saving, the jupyter notebook and you saved images will be available for download in the [data tab](https://www.floydhub.com/data)
 
-## A cool visualization I made:
+## A cool visualization to understand the process:
 
 ![gif](out.gif)
 
