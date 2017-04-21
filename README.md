@@ -22,6 +22,8 @@ Paste the authentication token from the site
 
 Clone this repo and cd into it
 
+Run `floyd init <ENTER PROJECT NAME>` to initialize a floyd project
+
 Then run `floyd run --mode jupyter --gpu --env tensorflow-1.0 --data jq4ZXUCSVer4t65rWeyieG`
 
 This will run a jupyter notebook on a gpu with tensorflow and some other basic libraries and mount the vgg19 dataset in the `/input` directory. Checkout the [floydhub documentation](http://docs.floydhub.com/home/using_datasets/) for more details
