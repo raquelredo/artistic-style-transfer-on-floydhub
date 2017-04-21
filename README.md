@@ -36,7 +36,7 @@ After saving, the jupyter notebook and you saved images will be available for do
 
 ## A cool visualization I made:
 
-[https://media.giphy.com/media/xUPGcAeiZlfZBnXpok/giphy.gif](https://media.giphy.com/media/xUPGcAeiZlfZBnXpok/giphy.gif)
+![gif](out.gif)
 
 ---
 
