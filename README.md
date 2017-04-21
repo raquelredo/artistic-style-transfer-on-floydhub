@@ -2,9 +2,9 @@
 
 Running deep learning projects can be a tedious job - installing the dependencies, downloading datasets, getting a gpu, etc.
 
-To make things simpler, [Floydhub](https://www.floydhub.com) sets everything up for you.
+To make things simpler, [Floydhub](https://www.floydhub.com) sets everything up for you. Setting up this project will take you only 5 minutes
 
-In this project we'll be running a jupyter notebook on floydhub servers to do style transfer.
+In this project we'll be running a jupyter notebook on floydhub servers to do style transfer. 
 
 ## Setup floydhub
 
