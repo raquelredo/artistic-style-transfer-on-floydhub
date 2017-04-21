@@ -22,7 +22,7 @@ Paste the authentication token from the site
 
 Clone this repo and cd into it
 
-Run `floyd init style-transfer` to initialize a floyd project
+Run `floyd init style-transfer` to initialize a floyd project named style-transfer
 
 Then run `floyd run --mode jupyter --gpu --env tensorflow-1.0 --data jq4ZXUCSVer4t65rWeyieG`
 
