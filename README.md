@@ -32,7 +32,11 @@ Open the jupyter notebook using the link and experiment with it.
 
 After you are done modifing and saving, you have to manually stop the job by pressing the stop button in the [dashboard](https://www.floydhub.com/experiments)
 
-After saving, the jupyter notebook will be available for download in the [data tab](https://www.floydhub.com/data)
+After saving, the jupyter notebook and you saved images will be available for download in the [data tab](https://www.floydhub.com/data)
+
+## A cool visualization I made:
+
+![GIF](https://media.giphy.com/media/xUPGcAeiZlfZBnXpok/giphy.gif "GIF GIF GIF GIF")
 
 ---
 
